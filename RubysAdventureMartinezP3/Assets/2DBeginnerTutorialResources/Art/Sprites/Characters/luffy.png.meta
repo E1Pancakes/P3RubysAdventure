@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -178,10 +178,10 @@ TextureImporter:
       name: luffy_S0
       rect:
         serializedVersion: 2
-        x: 44
-        y: 887
-        width: 32
-        height: 55
+        x: 45
+        y: 888
+        width: 30
+        height: 47
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -199,10 +199,10 @@ TextureImporter:
       name: luffy_S1
       rect:
         serializedVersion: 2
-        x: 91
-        y: 887
-        width: 34
-        height: 55
+        x: 92
+        y: 888
+        width: 31
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,10 +220,10 @@ TextureImporter:
       name: luffy_S2
       rect:
         serializedVersion: 2
-        x: 136
-        y: 887
-        width: 36
-        height: 55
+        x: 138
+        y: 888
+        width: 32
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,10 +241,10 @@ TextureImporter:
       name: luffy_S4
       rect:
         serializedVersion: 2
-        x: 231
-        y: 887
-        width: 37
-        height: 55
+        x: 233
+        y: 888
+        width: 32
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -262,10 +262,10 @@ TextureImporter:
       name: luffy_R0
       rect:
         serializedVersion: 2
-        x: 380
-        y: 883
-        width: 45
-        height: 60
+        x: 382
+        y: 885
+        width: 38
+        height: 47
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -283,10 +283,10 @@ TextureImporter:
       name: luffy_R1
       rect:
         serializedVersion: 2
-        x: 431
-        y: 886
-        width: 57
-        height: 59
+        x: 435
+        y: 896
+        width: 48
+        height: 37
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,10 +304,10 @@ TextureImporter:
       name: luffy_R2
       rect:
         serializedVersion: 2
-        x: 494
-        y: 884
-        width: 49
-        height: 59
+        x: 498
+        y: 886
+        width: 42
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -325,10 +325,10 @@ TextureImporter:
       name: luffy_R3
       rect:
         serializedVersion: 2
-        x: 549
-        y: 883
-        width: 43
-        height: 59
+        x: 555
+        y: 886
+        width: 32
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,10 +346,10 @@ TextureImporter:
       name: luffy_P0
       rect:
         serializedVersion: 2
-        x: 42
-        y: 826
-        width: 34
-        height: 52
+        x: 43
+        y: 828
+        width: 30
+        height: 47
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -367,10 +367,10 @@ TextureImporter:
       name: luffy_P1
       rect:
         serializedVersion: 2
-        x: 83
-        y: 825
-        width: 35
-        height: 54
+        x: 85
+        y: 826
+        width: 31
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,10 +388,10 @@ TextureImporter:
       name: luffy_P2
       rect:
         serializedVersion: 2
-        x: 129
-        y: 825
-        width: 36
-        height: 52
+        x: 131
+        y: 826
+        width: 32
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -409,10 +409,10 @@ TextureImporter:
       name: luffy_P5
       rect:
         serializedVersion: 2
-        x: 293
-        y: 822
-        width: 45
-        height: 51
+        x: 294
+        y: 823
+        width: 42
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -430,10 +430,10 @@ TextureImporter:
       name: luffy_12
       rect:
         serializedVersion: 2
-        x: 380
-        y: 822
-        width: 40
-        height: 52
+        x: 385
+        y: 824
+        width: 30
+        height: 47
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -451,10 +451,10 @@ TextureImporter:
       name: luffy_13
       rect:
         serializedVersion: 2
-        x: 429
-        y: 822
-        width: 39
-        height: 52
+        x: 432
+        y: 824
+        width: 31
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -472,10 +472,10 @@ TextureImporter:
       name: luffy_14
       rect:
         serializedVersion: 2
-        x: 473
-        y: 822
-        width: 39
-        height: 52
+        x: 476
+        y: 824
+        width: 32
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -493,10 +493,10 @@ TextureImporter:
       name: luffy_15
       rect:
         serializedVersion: 2
-        x: 520
-        y: 823
-        width: 49
-        height: 51
+        x: 522
+        y: 825
+        width: 42
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -514,10 +514,10 @@ TextureImporter:
       name: luffy_16
       rect:
         serializedVersion: 2
-        x: 41
-        y: 696
-        width: 40
-        height: 52
+        x: 44
+        y: 697
+        width: 32
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -535,10 +535,10 @@ TextureImporter:
       name: luffy_17
       rect:
         serializedVersion: 2
-        x: 87
-        y: 695
-        width: 45
-        height: 49
+        x: 91
+        y: 697
+        width: 38
+        height: 37
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -556,10 +556,10 @@ TextureImporter:
       name: luffy_18
       rect:
         serializedVersion: 2
-        x: 138
-        y: 694
-        width: 105
-        height: 58
+        x: 144
+        y: 697
+        width: 94
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -577,10 +577,10 @@ TextureImporter:
       name: luffy_19
       rect:
         serializedVersion: 2
-        x: 248
-        y: 694
-        width: 105
-        height: 58
+        x: 253
+        y: 697
+        width: 90
+        height: 51
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -598,10 +598,10 @@ TextureImporter:
       name: luffy_20
       rect:
         serializedVersion: 2
-        x: 355
-        y: 694
-        width: 105
-        height: 56
+        x: 358
+        y: 697
+        width: 95
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -619,10 +619,10 @@ TextureImporter:
       name: luffy_21
       rect:
         serializedVersion: 2
-        x: 463
-        y: 694
-        width: 105
-        height: 55
+        x: 468
+        y: 697
+        width: 96
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -640,10 +640,10 @@ TextureImporter:
       name: luffy_22
       rect:
         serializedVersion: 2
-        x: 573
-        y: 694
-        width: 44
-        height: 55
+        x: 579
+        y: 697
+        width: 32
+        height: 43
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -661,10 +661,10 @@ TextureImporter:
       name: luffy_23
       rect:
         serializedVersion: 2
-        x: 631
-        y: 695
-        width: 41
-        height: 52
+        x: 634
+        y: 697
+        width: 32
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -682,10 +682,10 @@ TextureImporter:
       name: luffy_24
       rect:
         serializedVersion: 2
-        x: 51
-        y: 562
-        width: 43
-        height: 48
+        x: 55
+        y: 563
+        width: 32
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -703,10 +703,10 @@ TextureImporter:
       name: luffy_25
       rect:
         serializedVersion: 2
-        x: 99
-        y: 562
-        width: 81
-        height: 48
+        x: 102
+        y: 563
+        width: 76
+        height: 38
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -724,10 +724,10 @@ TextureImporter:
       name: luffy_26
       rect:
         serializedVersion: 2
-        x: 191
-        y: 562
-        width: 113
-        height: 48
+        x: 193
+        y: 563
+        width: 108
+        height: 38
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -745,10 +745,10 @@ TextureImporter:
       name: luffy_27
       rect:
         serializedVersion: 2
-        x: 315
-        y: 562
-        width: 99
-        height: 48
+        x: 316
+        y: 563
+        width: 94
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -766,10 +766,10 @@ TextureImporter:
       name: luffy_28
       rect:
         serializedVersion: 2
-        x: 424
-        y: 561
-        width: 117
-        height: 49
+        x: 425
+        y: 563
+        width: 111
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -787,10 +787,10 @@ TextureImporter:
       name: luffy_29
       rect:
         serializedVersion: 2
-        x: 549
-        y: 562
-        width: 83
-        height: 48
+        x: 551
+        y: 563
+        width: 73
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -808,10 +808,10 @@ TextureImporter:
       name: luffy_30
       rect:
         serializedVersion: 2
-        x: 642
-        y: 560
-        width: 66
-        height: 50
+        x: 646
+        y: 562
+        width: 61
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -829,10 +829,10 @@ TextureImporter:
       name: luffy_31
       rect:
         serializedVersion: 2
-        x: 719
-        y: 560
-        width: 40
-        height: 50
+        x: 722
+        y: 562
+        width: 32
+        height: 43
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -850,10 +850,10 @@ TextureImporter:
       name: luffy_32
       rect:
         serializedVersion: 2
-        x: 35
-        y: 431
-        width: 48
-        height: 57
+        x: 39
+        y: 434
+        width: 40
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -871,10 +871,10 @@ TextureImporter:
       name: luffy_33
       rect:
         serializedVersion: 2
-        x: 91
-        y: 432
-        width: 98
-        height: 56
+        x: 94
+        y: 434
+        width: 88
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -892,10 +892,10 @@ TextureImporter:
       name: luffy_34
       rect:
         serializedVersion: 2
-        x: 194
-        y: 431
-        width: 122
-        height: 57
+        x: 197
+        y: 434
+        width: 119
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -913,10 +913,10 @@ TextureImporter:
       name: luffy_35
       rect:
         serializedVersion: 2
-        x: 327
-        y: 432
-        width: 58
-        height: 56
+        x: 332
+        y: 434
+        width: 48
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -934,10 +934,10 @@ TextureImporter:
       name: luffy_36
       rect:
         serializedVersion: 2
-        x: 391
-        y: 431
-        width: 82
-        height: 57
+        x: 395
+        y: 434
+        width: 72
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -955,10 +955,10 @@ TextureImporter:
       name: luffy_37
       rect:
         serializedVersion: 2
-        x: 479
-        y: 429
-        width: 77
-        height: 56
+        x: 482
+        y: 434
+        width: 69
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -973,34 +973,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: luffy_38
-      rect:
-        serializedVersion: 2
-        x: 661
-        y: 254
-        width: 8
-        height: 1
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e47879619f6fa04cbd76c2fb399929f
-      internalID: -1229783842
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: luffy_39
       rect:
         serializedVersion: 2
-        x: 683
-        y: 197
-        width: 47
-        height: 30
+        x: 40
+        y: 373
+        width: 42
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1018,10 +997,10 @@ TextureImporter:
       name: luffy_40
       rect:
         serializedVersion: 2
-        x: 33
-        y: 305
-        width: 43
-        height: 61
+        x: 38
+        y: 307
+        width: 34
+        height: 51
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1039,10 +1018,10 @@ TextureImporter:
       name: luffy_41
       rect:
         serializedVersion: 2
-        x: 83
-        y: 305
-        width: 54
-        height: 61
+        x: 87
+        y: 307
+        width: 48
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1060,10 +1039,10 @@ TextureImporter:
       name: luffy_42
       rect:
         serializedVersion: 2
-        x: 152
-        y: 305
-        width: 115
-        height: 60
+        x: 156
+        y: 307
+        width: 107
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1081,10 +1060,10 @@ TextureImporter:
       name: luffy_43
       rect:
         serializedVersion: 2
-        x: 273
-        y: 305
-        width: 114
-        height: 60
+        x: 278
+        y: 307
+        width: 109
+        height: 49
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1102,10 +1081,10 @@ TextureImporter:
       name: luffy_44
       rect:
         serializedVersion: 2
-        x: 399
-        y: 305
-        width: 111
-        height: 60
+        x: 403
+        y: 307
+        width: 101
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1123,10 +1102,10 @@ TextureImporter:
       name: luffy_45
       rect:
         serializedVersion: 2
-        x: 525
-        y: 305
-        width: 58
-        height: 61
+        x: 532
+        y: 307
+        width: 48
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1144,10 +1123,10 @@ TextureImporter:
       name: luffy_46
       rect:
         serializedVersion: 2
-        x: 590
-        y: 303
-        width: 47
-        height: 60
+        x: 594
+        y: 307
+        width: 34
+        height: 51
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1165,10 +1144,10 @@ TextureImporter:
       name: luffy_47
       rect:
         serializedVersion: 2
-        x: 30
-        y: 242
-        width: 54
-        height: 52
+        x: 36
+        y: 245
+        width: 38
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1186,10 +1165,10 @@ TextureImporter:
       name: luffy_48
       rect:
         serializedVersion: 2
-        x: 88
-        y: 242
-        width: 45
-        height: 52
+        x: 95
+        y: 243
+        width: 36
+        height: 43
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1207,10 +1186,10 @@ TextureImporter:
       name: luffy_49
       rect:
         serializedVersion: 2
-        x: 199
-        y: 236
-        width: 55
-        height: 58
+        x: 203
+        y: 238
+        width: 45
+        height: 55
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1228,10 +1207,10 @@ TextureImporter:
       name: luffy_50
       rect:
         serializedVersion: 2
-        x: 37
-        y: 171
-        width: 151
-        height: 62
+        x: 39
+        y: 173
+        width: 142
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1249,10 +1228,10 @@ TextureImporter:
       name: luffy_51
       rect:
         serializedVersion: 2
-        x: 193
-        y: 171
-        width: 155
-        height: 63
+        x: 195
+        y: 173
+        width: 150
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1270,10 +1249,10 @@ TextureImporter:
       name: luffy_52
       rect:
         serializedVersion: 2
-        x: 357
-        y: 174
-        width: 132
-        height: 59
+        x: 362
+        y: 175
+        width: 125
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1291,10 +1270,10 @@ TextureImporter:
       name: luffy_53
       rect:
         serializedVersion: 2
-        x: 494
-        y: 170
-        width: 126
-        height: 62
+        x: 504
+        y: 171
+        width: 113
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1312,10 +1291,10 @@ TextureImporter:
       name: luffy_54
       rect:
         serializedVersion: 2
-        x: 3
-        y: 107
-        width: 197
-        height: 54
+        x: 40
+        y: 110
+        width: 152
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1333,10 +1312,10 @@ TextureImporter:
       name: luffy_55
       rect:
         serializedVersion: 2
-        x: 202
-        y: 112
-        width: 93
-        height: 49
+        x: 207
+        y: 114
+        width: 83
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1354,10 +1333,10 @@ TextureImporter:
       name: luffy_56
       rect:
         serializedVersion: 2
-        x: 319
-        y: 107
-        width: 52
-        height: 55
+        x: 322
+        y: 110
+        width: 44
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1375,10 +1354,10 @@ TextureImporter:
       name: luffy_57
       rect:
         serializedVersion: 2
-        x: 378
-        y: 107
-        width: 39
-        height: 55
+        x: 381
+        y: 110
+        width: 32
+        height: 43
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1396,10 +1375,10 @@ TextureImporter:
       name: luffy_58
       rect:
         serializedVersion: 2
-        x: 537
-        y: 43
-        width: 46
-        height: 55
+        x: 543
+        y: 45
+        width: 33
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1417,10 +1396,10 @@ TextureImporter:
       name: luffy_59
       rect:
         serializedVersion: 2
-        x: 589
-        y: 42
-        width: 46
-        height: 58
+        x: 591
+        y: 45
+        width: 34
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1438,10 +1417,10 @@ TextureImporter:
       name: luffy_60
       rect:
         serializedVersion: 2
-        x: 735
-        y: 0
-        width: 105.375
-        height: 122
+        x: 770
+        y: 34
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1459,10 +1438,10 @@ TextureImporter:
       name: luffy_S3
       rect:
         serializedVersion: 2
-        x: 181
-        y: 887
-        width: 39
-        height: 55
+        x: 185
+        y: 888
+        width: 33
+        height: 44
       alignment: 9
       pivot: {x: 0.49376956, y: 0.58599854}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1480,10 +1459,10 @@ TextureImporter:
       name: luffy_S5
       rect:
         serializedVersion: 2
-        x: 279
-        y: 886
-        width: 34
-        height: 56
+        x: 280
+        y: 888
+        width: 30
+        height: 47
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1501,10 +1480,10 @@ TextureImporter:
       name: luffy_R4
       rect:
         serializedVersion: 2
-        x: 599
-        y: 883
-        width: 43
-        height: 59
+        x: 602
+        y: 886
+        width: 38
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1522,10 +1501,10 @@ TextureImporter:
       name: luffy_R5
       rect:
         serializedVersion: 2
-        x: 649
-        y: 883
-        width: 58
-        height: 59
+        x: 655
+        y: 896
+        width: 48
+        height: 37
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1543,10 +1522,10 @@ TextureImporter:
       name: luffy_R6
       rect:
         serializedVersion: 2
-        x: 716
-        y: 884
-        width: 44
-        height: 59
+        x: 718
+        y: 885
+        width: 37
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1564,10 +1543,10 @@ TextureImporter:
       name: luffy_R7
       rect:
         serializedVersion: 2
-        x: 768
-        y: 883
-        width: 39
-        height: 59
+        x: 770
+        y: 885
+        width: 33
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1585,10 +1564,10 @@ TextureImporter:
       name: luffy_P3
       rect:
         serializedVersion: 2
-        x: 172
-        y: 824
-        width: 46
-        height: 52
+        x: 174
+        y: 825
+        width: 42
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1606,10 +1585,10 @@ TextureImporter:
       name: luffy_P4
       rect:
         serializedVersion: 2
-        x: 229
-        y: 824
-        width: 62
-        height: 51
+        x: 231
+        y: 825
+        width: 58
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1627,10 +1606,10 @@ TextureImporter:
       name: luffy_69
       rect:
         serializedVersion: 2
-        x: 574
-        y: 823
-        width: 66
-        height: 50
+        x: 579
+        y: 825
+        width: 58
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1648,10 +1627,10 @@ TextureImporter:
       name: luffy_70
       rect:
         serializedVersion: 2
-        x: 644
-        y: 822
-        width: 47
-        height: 50
+        x: 646
+        y: 824
+        width: 42
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1669,10 +1648,10 @@ TextureImporter:
       name: luffy_71
       rect:
         serializedVersion: 2
-        x: 40
-        y: 757
-        width: 39
-        height: 51
+        x: 44
+        y: 759
+        width: 33
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1690,10 +1669,10 @@ TextureImporter:
       name: luffy_72
       rect:
         serializedVersion: 2
-        x: 89
-        y: 760
-        width: 35
-        height: 58
+        x: 92
+        y: 763
+        width: 30
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1711,10 +1690,10 @@ TextureImporter:
       name: luffy_73
       rect:
         serializedVersion: 2
-        x: 130
-        y: 760
-        width: 37
-        height: 57
+        x: 137
+        y: 763
+        width: 30
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1732,10 +1711,10 @@ TextureImporter:
       name: luffy_74
       rect:
         serializedVersion: 2
-        x: 177
-        y: 760
-        width: 41
-        height: 57
+        x: 182
+        y: 772
+        width: 31
+        height: 39
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1753,10 +1732,10 @@ TextureImporter:
       name: luffy_75
       rect:
         serializedVersion: 2
-        x: 221
-        y: 760
-        width: 41
-        height: 56
+        x: 228
+        y: 763
+        width: 30
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1774,10 +1753,10 @@ TextureImporter:
       name: luffy_76
       rect:
         serializedVersion: 2
-        x: 267
-        y: 760
-        width: 38
-        height: 55
+        x: 273
+        y: 763
+        width: 30
+        height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1795,10 +1774,10 @@ TextureImporter:
       name: luffy_77
       rect:
         serializedVersion: 2
-        x: 313
-        y: 758
-        width: 40
-        height: 56
+        x: 318
+        y: 759
+        width: 33
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1816,10 +1795,10 @@ TextureImporter:
       name: luffy_78
       rect:
         serializedVersion: 2
-        x: 363
-        y: 757
-        width: 38
-        height: 49
+        x: 366
+        y: 759
+        width: 34
+        height: 34
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1837,10 +1816,10 @@ TextureImporter:
       name: luffy_79
       rect:
         serializedVersion: 2
-        x: 412
-        y: 757
-        width: 39
-        height: 48
+        x: 415
+        y: 759
+        width: 33
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1858,10 +1837,10 @@ TextureImporter:
       name: luffy_80
       rect:
         serializedVersion: 2
-        x: 691
-        y: 695
-        width: 42
-        height: 53
+        x: 696
+        y: 697
+        width: 32
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1879,10 +1858,10 @@ TextureImporter:
       name: luffy_81
       rect:
         serializedVersion: 2
-        x: 745
-        y: 696
-        width: 39
-        height: 52
+        x: 750
+        y: 698
+        width: 32
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1900,10 +1879,10 @@ TextureImporter:
       name: luffy_82
       rect:
         serializedVersion: 2
-        x: 42
-        y: 623
-        width: 40
-        height: 51
+        x: 45
+        y: 625
+        width: 32
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1921,10 +1900,10 @@ TextureImporter:
       name: luffy_83
       rect:
         serializedVersion: 2
-        x: 89
-        y: 623
-        width: 44
-        height: 50
+        x: 92
+        y: 625
+        width: 38
+        height: 37
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1942,10 +1921,10 @@ TextureImporter:
       name: luffy_84
       rect:
         serializedVersion: 2
-        x: 143
-        y: 623
-        width: 98
-        height: 59
+        x: 145
+        y: 625
+        width: 94
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1963,10 +1942,10 @@ TextureImporter:
       name: luffy_85
       rect:
         serializedVersion: 2
-        x: 252
-        y: 623
-        width: 100
-        height: 59
+        x: 254
+        y: 625
+        width: 90
+        height: 51
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1984,10 +1963,10 @@ TextureImporter:
       name: luffy_86
       rect:
         serializedVersion: 2
-        x: 357
-        y: 623
-        width: 103
-        height: 59
+        x: 359
+        y: 625
+        width: 95
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2005,10 +1984,10 @@ TextureImporter:
       name: luffy_87
       rect:
         serializedVersion: 2
-        x: 466
-        y: 623
-        width: 105
-        height: 60
+        x: 469
+        y: 625
+        width: 96
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2026,10 +2005,10 @@ TextureImporter:
       name: luffy_88
       rect:
         serializedVersion: 2
-        x: 576
-        y: 622
-        width: 42
-        height: 53
+        x: 580
+        y: 625
+        width: 32
+        height: 43
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2047,10 +2026,10 @@ TextureImporter:
       name: luffy_89
       rect:
         serializedVersion: 2
-        x: 635
-        y: 623
-        width: 39
-        height: 52
+        x: 638
+        y: 626
+        width: 32
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2068,10 +2047,10 @@ TextureImporter:
       name: luffy_90
       rect:
         serializedVersion: 2
-        x: 692
-        y: 623
-        width: 41
-        height: 52
+        x: 697
+        y: 625
+        width: 32
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2089,10 +2068,10 @@ TextureImporter:
       name: luffy_91
       rect:
         serializedVersion: 2
-        x: 751
-        y: 624
-        width: 43
-        height: 51
+        x: 756
+        y: 625
+        width: 32
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2110,12 +2089,12 @@ TextureImporter:
       name: luffy_0
       rect:
         serializedVersion: 2
-        x: 37
+        x: 41
         y: 498
-        width: 48
-        height: 51
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.56325734, y: 0.4598374}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2131,10 +2110,10 @@ TextureImporter:
       name: luffy_1
       rect:
         serializedVersion: 2
-        x: 91
-        y: 497
-        width: 96
-        height: 52
+        x: 96
+        y: 498
+        width: 88
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2152,10 +2131,10 @@ TextureImporter:
       name: luffy_2
       rect:
         serializedVersion: 2
-        x: 192
-        y: 497
-        width: 130
-        height: 52
+        x: 199
+        y: 498
+        width: 120
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2173,10 +2152,10 @@ TextureImporter:
       name: luffy_3
       rect:
         serializedVersion: 2
-        x: 327
-        y: 497
-        width: 59
-        height: 53
+        x: 334
+        y: 498
+        width: 48
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2194,10 +2173,10 @@ TextureImporter:
       name: luffy_4
       rect:
         serializedVersion: 2
-        x: 390
-        y: 497
-        width: 81
-        height: 53
+        x: 397
+        y: 498
+        width: 72
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2215,10 +2194,10 @@ TextureImporter:
       name: luffy_5
       rect:
         serializedVersion: 2
-        x: 475
-        y: 497
-        width: 82
-        height: 52
+        x: 484
+        y: 498
+        width: 69
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2236,10 +2215,10 @@ TextureImporter:
       name: luffy_6
       rect:
         serializedVersion: 2
-        x: 145
-        y: 238
-        width: 51
-        height: 56
+        x: 151
+        y: 239
+        width: 42
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2257,10 +2236,10 @@ TextureImporter:
       name: luffy_7
       rect:
         serializedVersion: 2
-        x: 261
-        y: 236
-        width: 46
-        height: 57
+        x: 265
+        y: 237
+        width: 38
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2278,10 +2257,10 @@ TextureImporter:
       name: luffy_8
       rect:
         serializedVersion: 2
-        x: 317
-        y: 235
-        width: 117
-        height: 59
+        x: 324
+        y: 236
+        width: 109
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2299,10 +2278,10 @@ TextureImporter:
       name: luffy_9
       rect:
         serializedVersion: 2
-        x: 441
-        y: 235
-        width: 134
-        height: 58
+        x: 448
+        y: 236
+        width: 125
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2320,10 +2299,10 @@ TextureImporter:
       name: luffy_10
       rect:
         serializedVersion: 2
-        x: 35
-        y: 45
-        width: 38
-        height: 52
+        x: 39
+        y: 47
+        width: 32
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2341,10 +2320,10 @@ TextureImporter:
       name: luffy_11
       rect:
         serializedVersion: 2
-        x: 80
-        y: 45
-        width: 42
-        height: 54
+        x: 86
+        y: 47
+        width: 30
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2362,10 +2341,10 @@ TextureImporter:
       name: luffy_61
       rect:
         serializedVersion: 2
-        x: 127
-        y: 45
-        width: 42
-        height: 53
+        x: 129
+        y: 47
+        width: 38
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2383,10 +2362,10 @@ TextureImporter:
       name: luffy_62
       rect:
         serializedVersion: 2
-        x: 175
-        y: 45
-        width: 41
-        height: 54
+        x: 182
+        y: 47
+        width: 30
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2404,10 +2383,10 @@ TextureImporter:
       name: luffy_63
       rect:
         serializedVersion: 2
-        x: 218
-        y: 45
-        width: 34
-        height: 54
+        x: 219
+        y: 46
+        width: 30
+        height: 47
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2425,10 +2404,10 @@ TextureImporter:
       name: luffy_64
       rect:
         serializedVersion: 2
-        x: 258
-        y: 44
-        width: 60
-        height: 55
+        x: 268
+        y: 48
+        width: 46
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2446,10 +2425,10 @@ TextureImporter:
       name: luffy_65
       rect:
         serializedVersion: 2
-        x: 324
-        y: 43
-        width: 45
-        height: 56
+        x: 334
+        y: 45
+        width: 28
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2467,10 +2446,10 @@ TextureImporter:
       name: luffy_66
       rect:
         serializedVersion: 2
-        x: 374
-        y: 40
-        width: 57
-        height: 59
+        x: 379
+        y: 45
+        width: 48
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2488,10 +2467,10 @@ TextureImporter:
       name: luffy_67
       rect:
         serializedVersion: 2
-        x: 437
-        y: 42
-        width: 34
-        height: 57
+        x: 442
+        y: 45
+        width: 25
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2509,10 +2488,10 @@ TextureImporter:
       name: luffy_68
       rect:
         serializedVersion: 2
-        x: 480
-        y: 43
-        width: 51
-        height: 55
+        x: 482
+        y: 45
+        width: 46
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2629,6 +2608,7 @@ TextureImporter:
       luffy_9: -128259710
       luffy_90: -749346511
       luffy_91: 798618912
+      luffy_92: -1947798536
       luffy_P0: 1432845378
       luffy_P1: 295932653
       luffy_P2: 43817291
